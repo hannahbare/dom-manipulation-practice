@@ -1,0 +1,25 @@
+.user-form {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  border: 2px solid black;
+}
+
+.user-form article,
+.user-input article {
+  margin: 4% auto;
+  width: 80%;
+  border: 2px dotted black;
+  padding: 2%;
+}
+
+.user-input {
+  position: absolute;
+  top: 0;
+  left: 52%;
+  width: 46%;
+  height: 100%;
+  border: 2px solid blue;
+}
