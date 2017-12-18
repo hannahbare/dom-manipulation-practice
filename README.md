@@ -16,7 +16,7 @@
 
 -Populate a second portion of the form upon clicking the submit button that will generate inputs for collecting the user's address, as well as a submit button inside the article class .user-address.
 
--Upon clicking submit in this new portion of the form, generate the user date in the .user-input section
+-Upon clicking submit in this new portion of the form, generate the user data in the .user-input section
 
 -Add a delete button to the user address to remove their address
 
